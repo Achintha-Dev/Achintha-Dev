@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Achintha 👋
 
-<!--
-**Achintha-Dev/Achintha-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering Graduate passionate about Web Development and Cybersecurity.
 
-Here are some ideas to get you started:
+## 🚀 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- React
+- Node.js
+- Express.js
+- MongoDB
+- JavaScript
+- Git & GitHub
+
+## 🔒 Currently Learning
+
+- Cybersecurity
+- Network Security
+
+## 📌 Featured Projects
+
+- DualMind AI
+- Silver Path
+
+## 📫 Connect With Me
+
+LinkedIn: [Your LinkedIn URL]
