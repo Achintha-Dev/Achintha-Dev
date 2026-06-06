@@ -17,9 +17,8 @@ Software Engineering Graduate passionate about Web Development and Cybersecurity
 - Network Security
 
 ## 📌 Featured Projects
-
-- [DualMind AI](https://github.com/Achintha-Dev/silver-path.git)
-- [Silver Path](https://github.com/Achintha-Dev/DualMind_AI.git)
+- <a href='https://github.com/Achintha-Dev/silver-path.git' target="_blank" >Silver Path</a>
+- <a href='https://github.com/Achintha-Dev/DualMind_AI.git' target="_blank" >DualMind AI</a>
 
 ## 📫 Connect With Me
 
