@@ -1,6 +1,6 @@
 # Hi, I'm Achintha 👋
 
-Software Engineering Graduate passionate about Web Development and Cybersecurity.
+IT udergraduate passionate about Web Development and Cybersecurity.
 
 ## 🚀 Skills
 
