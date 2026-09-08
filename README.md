@@ -5,10 +5,12 @@ IT udergraduate passionate about Web Development and Cybersecurity.
 ## 🚀 Skills
 
 - React
+- Next.js
 - Node.js
 - Express.js
 - MongoDB
 - JavaScript
+- PHP
 - Git & GitHub
 
 ## 🔒 Currently Learning
@@ -22,4 +24,4 @@ IT udergraduate passionate about Web Development and Cybersecurity.
 
 ## 📫 Connect With Me
 
-LinkedIn: [Your LinkedIn URL]
+LinkedIn: [www.linkedin.com/in/achintha-dev]
