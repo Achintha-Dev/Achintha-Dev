@@ -6,11 +6,14 @@ IT udergraduate passionate about Web Development and Cybersecurity.
 
 - React
 - Next.js
-- Node.js
+- TailwindCSS
 - Express.js
-- MongoDB
 - JavaScript
+- Node.js
+- Laravel
 - PHP
+- MongoDB
+- MySql
 - Git & GitHub
 
 ## 🔒 Currently Learning
@@ -24,4 +27,4 @@ IT udergraduate passionate about Web Development and Cybersecurity.
 
 ## 📫 Connect With Me
 
-LinkedIn: [www.linkedin.com/in/achintha-dev]
+LinkedIn: <a href='www.linkedin.com/in/achintha-dev' target="_blank" >Achintha Bandara</a>
